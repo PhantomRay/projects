@@ -1,10 +1,13 @@
 # Random Projects
 
-A few sample projects I have designed and development, end to end.
+A few sample projects I have done in the past from concept to delivery.
 
 ## Backend System
 
-I don't just draw the system architecture diagrams, I built it from scratch and implement every single service.
+I don’t just draw diagrams — I build it end to end, implementing every service from the ground up.
+
+The diagram below illustrates a complex backend system I delivered for a large-scale mobile and web applications. It features a hybrid cloud architecture on DOKS, designed for global high availability and low latency while keeping costs down. The solution uses a microservices approach with GraphQL federation, an event-driven architecture, full observability, and a CI/CD pipeline powered by GitHub Actions.
+(Some details are blurred for confidentiality.)
 
 ![Backend](assets/backend.png)
 
@@ -43,6 +46,7 @@ Integration of 10+ hardware components
 <img src="assets/iot-2.png" width="640" height="400" alt="Web Applications">
 
 Control the device using custom Bluetooth communication protocol using mobile app.
+
 <img src="assets/iot-3.png" width="640" alt="Web Applications">
 
 <video width="1280" height="720" controls>
