@@ -29,7 +29,7 @@ Let the automated system replace the need of human coordination using AI across 
 
 Defending Australia's largest retailer's mobile backend from bot attacks in real-time.
 
-[<video width="1280" height="720" src="assets/bot.mp4"> 
+[<video width="1280" height="720" src="assets/bot.mp4">
 </video>](https://github.com/user-attachments/assets/07a26fc8-5541-4c91-834e-258220be9c5c)
 
 Bot patterns visualisation
@@ -38,7 +38,7 @@ Bot patterns visualisation
 
 ## Hardware Project
 
-Integration of 10+ hardware components
+Smart traffic light system using IoT and embedded systems. Also built a custom mobile app to control the device via Bluetooth and backend system to monitor traffic in real-time. Used by hundreds of schools and local councils across Australia.
 
 <img src="assets/iot-1.png" width="1024" alt="Web Applications">
 <img src="assets/iot-2.png" width="640" height="400" alt="Web Applications">
@@ -47,7 +47,7 @@ Control the device using custom Bluetooth communication protocol using mobile ap
 
 <img src="assets/iot-3.png" width="640" alt="Web Applications">
 
-[<video width="1280" height="720" src="assets/iot-4.mp4"> 
+[<video width="1280" height="720" src="assets/iot-4.mp4">
 </video>](https://github.com/user-attachments/assets/5c1ab780-eb93-44b4-916c-c0b0402da362)
 
 Real-time traffic dashboard.
