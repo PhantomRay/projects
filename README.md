@@ -29,9 +29,7 @@ Let the automated system replace the need of human coordination using AI across 
 
 Defending Australia's largest retailer's mobile backend from bot attacks in real-time.
 
-<video width="1280" height="720" controls>
-<source src="assets/bot.mp4" type="video/mp4">
-Your browser does not support the video tag.
+<video width="1280" height="720" src="assets/bot.mp4"> 
 </video>
 
 Bot patterns visualisation
@@ -49,9 +47,7 @@ Control the device using custom Bluetooth communication protocol using mobile ap
 
 <img src="assets/iot-3.png" width="640" alt="Web Applications">
 
-<video width="1280" height="720" controls>
-<source src="assets/iot-4.mp4" type="video/mp4">
-Your browser does not support the video tag.
+<video width="1280" height="720" src="assets/iot-4.mp4"> 
 </video>
 
 Real-time traffic dashboard.
