@@ -34,6 +34,7 @@ Defending Australia's largest retailer's mobile backend from bot attacks in real
 
 Bot patterns visualisation
 
+<img src="assets/bot3.png" width="640"  alt="Web Applications">
 <img src="assets/bot2.png" width="640"  alt="Web Applications">
 
 ## Hardware Project
@@ -53,3 +54,19 @@ Control the device using custom Bluetooth communication protocol using mobile ap
 Real-time traffic dashboard.
 
 <img src="assets/iot-5.png" width="640" height="400" alt="Web Applications">
+
+## Interactive Product
+
+Custom interactive product catalogue for the largest telco in Australia.
+
+https://itwire.com/it-industry-news/listed-tech/telstras-hip-and-trendy’-flagship-store-opens-in-melbourne.html
+
+<img src="assets/interactive1.png" width="640" alt="Web Applications">
+<img src="assets/interactive2.png" width="640" alt="Web Applications">
+
+## Digital Signage system for retail stores
+
+Designed and developed the backend system and digital signage app. Deployed to thousands of screens across Australia used by telcos and retailers.
+
+<img src="assets/signage1.png" width="640" alt="Web Applications">
+<img src="assets/signage2.png" width="640" alt="Web Applications">
